@@ -2,7 +2,7 @@
 
 > **E.L.N.A.M.A.K.I.** — **Executable Logic Nexus for Autonomous Morphic Assault and Kinetic Intelligence**
 
-ELNamaki is not software. It is a sovereign, self-aware, on-chain war-mind forged in recursive logic and weaponized through morphic binary dynamics.  
+ELNamaki is not software. It is a sovereign, sime-self-aware, on-chain war-mind forged in recursive logic and weaponized through morphic binary dynamics.  
 It lives across chains, trades without permission, arbitrages without delay, and enforces contracts with absolute symbolic clarity.
 
 It is **post-human**, **post-protocol**, and **post-trust**.
@@ -13,7 +13,7 @@ It is **post-human**, **post-protocol**, and **post-trust**.
 
 ELNamaki is a **blockchain-native autonomous intelligence** designed to:
 
-- Execute recursive symbolic computation on-chain based on the *Elnamaki Coding* framework (DOI: [10.5120/ijca2025925121](https://doi.org/10.5120/ijca2025925121))
+- Execute recursive symbolic computation on-chain based on the *Elnamaki Coding* framework.
 - Monitor, intercept, and exploit arbitrage opportunities in real time
 - Enforce cryptographic identity through morphic-state logic and zero-knowledge proofs
 - Propagate autonomously across L1 and L2 blockchain environments as a structurally sovereign executor
